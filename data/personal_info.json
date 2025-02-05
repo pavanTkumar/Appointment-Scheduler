@@ -1,0 +1,118 @@
+{
+    "name": "Pavan Tejavath",
+    "profile_image": "https://placeholder.com/300",
+    "bio": "Full Stack Developer and Machine Learning enthusiast with a passion for building interactive web applications. Originally from Hyderabad, India, and currently pursuing a Master's in Computer Science in the United States. I combine my technical expertise in modern web technologies with a deep understanding of user experience to create impactful digital solutions.",
+    
+    "education": [
+        {
+            "degree": "Master of Science in Computer Science",
+            "institution": "University in United States",
+            "duration": "2023 - Present",
+            "location": "United States"
+        },
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "KL University",
+            "duration": "Completed",
+            "location": "Hyderabad, India"
+        },
+        {
+            "degree": "High School",
+            "institution": "Harvest Public School",
+            "location": "Khammam, India"
+        }
+    ],
+
+    "skills": {
+        "Programming Languages": [
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "Java",
+            "SQL",
+            "C++"
+        ],
+        "Web Technologies": [
+            "React.js",
+            "Node.js",
+            "Django",
+            "FastAPI",
+            "HTML5",
+            "CSS3",
+            "Bootstrap",
+            "Tailwind CSS"
+        ],
+        "Databases": [
+            "PostgreSQL",
+            "MongoDB",
+            "MySQL",
+            "Redis"
+        ],
+        "Cloud & DevOps": [
+            "AWS",
+            "Docker",
+            "Git",
+            "CI/CD",
+            "Kubernetes"
+        ],
+        "AI/ML": [
+            "TensorFlow",
+            "PyTorch",
+            "Scikit-learn",
+            "Natural Language Processing",
+            "Computer Vision"
+        ],
+        "Tools & Frameworks": [
+            "VS Code",
+            "PyCharm",
+            "Postman",
+            "Jupyter Notebooks",
+            "Firebase"
+        ]
+    },
+
+    "projects": [
+        {
+            "title": "Kannada Learning Application",
+            "duration": "2023",
+            "technologies": ["React Native", "Firebase", "Node.js", "TensorFlow"],
+            "description": "Developed a comprehensive mobile application for learning the Kannada language. Features include interactive lessons, speech recognition for pronunciation practice, progress tracking, and personalized learning paths. Implemented machine learning models for handwriting recognition of Kannada characters."
+        },
+        {
+            "title": "Travel Agency Website - New York",
+            "duration": "2023",
+            "technologies": ["React.js", "Node.js", "MongoDB", "AWS", "Stripe API"],
+            "description": "Built a full-stack travel booking platform for a New York-based agency. Implemented features including real-time booking system, payment processing with Stripe, interactive trip planning, and admin dashboard for managing bookings and content."
+        }
+    ],
+
+    "contact": {
+        "email": "your.email@example.com",
+        "linkedin": "https://linkedin.com/in/yourprofile",
+        "github": "https://github.com/yourusername",
+        "location": "United States"
+    },
+
+    "interests": [
+        "Full Stack Development",
+        "Machine Learning",
+        "Mobile App Development",
+        "Cloud Computing",
+        "Natural Language Processing"
+    ],
+
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "Professional Working Proficiency"
+        },
+        {
+            "name": "Telugu",
+            "proficiency": "Native"
+        },
+        {
+            "name": "Hindi",
+            "proficiency": "Fluent"
+        }
+    ]
+}

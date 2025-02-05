@@ -1,0 +1,18 @@
+[
+    {
+        "type": "Full Name",
+        "content": "Pavan Tejavath"
+    },
+    {
+        "type": "project",
+        "content": "Developed an AI-powered portfolio assistant using Streamlit and OpenAI.",
+        "tags": ["AI", "python", "streamlit"],
+        "date": "2025-02"
+    },
+    {
+        "type": "skill",
+        "content": "Expert in Python programming with focus on AI/ML applications...",
+        "tags": ["python", "AI", "ML"],
+        "date": "2024-01"
+    }
+]
